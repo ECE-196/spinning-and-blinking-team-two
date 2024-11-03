@@ -1,0 +1,11 @@
+/Users/pete/Documents/GitHub/spinning-and-blinking-team-two/firmware/target/xtensa-esp32s3-none-elf/release/deps/libxtensa_lx-51dbd3d082be6acb.rmeta: /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/lib.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/interrupt.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/mutex.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/timer.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/macros.rs
+
+/Users/pete/Documents/GitHub/spinning-and-blinking-team-two/firmware/target/xtensa-esp32s3-none-elf/release/deps/libxtensa_lx-51dbd3d082be6acb.rlib: /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/lib.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/interrupt.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/mutex.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/timer.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/macros.rs
+
+/Users/pete/Documents/GitHub/spinning-and-blinking-team-two/firmware/target/xtensa-esp32s3-none-elf/release/deps/xtensa_lx-51dbd3d082be6acb.d: /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/lib.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/interrupt.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/mutex.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/timer.rs /Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/macros.rs
+
+/Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/lib.rs:
+/Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/interrupt.rs:
+/Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/mutex.rs:
+/Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/timer.rs:
+/Users/pete/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/macros.rs:

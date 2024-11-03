@@ -1,0 +1,1 @@
+/Users/pete/Documents/GitHub/spinning-and-blinking-team-two/firmware/target/xtensa-esp32s3-none-elf/release/firmware: /Users/pete/Documents/GitHub/spinning-and-blinking-team-two/firmware/build.rs /Users/pete/Documents/GitHub/spinning-and-blinking-team-two/firmware/src/main.rs
